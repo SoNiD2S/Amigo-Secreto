@@ -1,3 +1,3 @@
 # Amigo-Secreto
 
-* Descargo archivos para trabajar localmente
+* Modificar archivo app.js para agregar la función solicitada
